@@ -1,7 +1,7 @@
 {
   "name": "NMDCProject",
   "short_name": "NMDCProject",
-  "start_url": "./",
+  "start_url": "./NMDCTest/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#03173d",

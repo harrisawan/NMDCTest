@@ -1053,7 +1053,7 @@
       "url": "index.html"
     },
     {
-      "hash": "sha256-D9gVH7AE35RXFdhy8sFVmDqIEbBueSWEaaafIpp5sB8=",
+      "hash": "sha256-389AM33iQYE8D\/uET0zKh6suRwRLMD+aJ2SGCFvyxJU=",
       "url": "manifest.json"
     },
     {
@@ -1281,7 +1281,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-XCih5vH3IQ5uqVHXDFK1W4YMmRu4cEQ+qtOsNuERX4w=",
+      "hash": "sha256-Mt9WKVOUuQZbmiyTfyXZ9b3kll5VTcHXAdTRzjMZXOo=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -1289,5 +1289,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "JCxR+QBc"
+  "version": "UwnMe59c"
 };
